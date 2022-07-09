@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Michael! I recently completed Coding Dojo's 3 stack bootcamp (Python, Java, MERN). 
 
 <!--
 **Benton-Michael/Benton-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
