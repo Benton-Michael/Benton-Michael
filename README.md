@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benton-Michael&hide=css&layout=compact&theme=chartreuse-dark) ](https://github.com/Benton-Michael/github-readme-stats)
+- <a href="https://benton-michael.github.io/" target="_blank">My Portfolio Site<a/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
