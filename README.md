@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 
 -->
-- ⚡ Fun fact: An Olympic swimming pool is 850K gal
-- 🌱 I’m currently learning about containerization and microservices
-- <a href="https://www.linkedin.com/in/mtbenton/" target="_blank"> My LinkedIn
+⚡ Fun fact: An Olympic swimming pool is 850K gal
+🌱 I’m currently learning about containerization and microservices
+<a href="https://www.linkedin.com/in/mtbenton/" target="_blank"> My LinkedIn
 
-🔭 I’m currently working on:
+🔭 I’m currently working on React applications with Tailwind CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benton-Michael&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Benton-Michael/github-readme-stats)
 
