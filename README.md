@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
 -->
-⚡ Fun fact: An Olympic swimming pool is 850K gal
+⚡ Fun fact: An Olympic swimming pool is 850 thousand gallons
+<br>
 - 🔭 I’m currently working on React applications with Tailwind CSS
 - 🌱 I’m currently learning about containerization and microservices
 
