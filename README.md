@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 🔭 I’m currently working on React applications with Tailwind CSS
 <br>
-- 🌱 I’m currently learning about containerization and microservices
+🌱 I’m currently learning about containerization and microservices
 
 <a href="https://www.linkedin.com/in/mtbenton/" target="_blank">  My LinkedIn 
 
