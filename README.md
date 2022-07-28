@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Michael! I recently completed Coding Dojo's 3 stack bootcamp (Python, Java, MERN). 
 
-<!--
-**Benton-Michael/Benton-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Benton-Michael/Benton-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +19,7 @@ Languages and Tools: Python, Java, JavaScript, HTML, CSS
 - 😄 Pronouns: ...
 
 
--->
+***********-->
 ⚡ Fun fact: An Olympic swimming pool is 850 thousand gallons
 <br>
 🔭 I’m currently working on React applications with Tailwind CSS
