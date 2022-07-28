@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### Languages and Tools:
+### Languages and Tools: Python, Java, JavaScript, HTML, CSS
 
 
 - [<img align="left" alt="Michael Benton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
