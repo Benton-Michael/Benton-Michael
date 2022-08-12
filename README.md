@@ -20,7 +20,7 @@ Languages and Tools: Python, Java, JavaScript, HTML, CSS
 
 
 ***********-->
-⚡ Fun fact: An Olympic swimming pool is 850 thousand gallons
+⚡ Fun fact: An Olympic swimming pool holds 850 thousand gallons 
 <br>
 🔭 I’m currently working on React applications with Tailwind CSS
 <br>
