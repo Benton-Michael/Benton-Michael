@@ -32,7 +32,7 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benton-Michael&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Benton-Michael/github-readme-stats)
 
-<a href="http://www.github.com/benton-michael”><img src="https://activity-graph.herokuapp.com/graph?username=benton-michael&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /> </a>
+
 
 <a href="https://benton-michael.github.io/" target="_blank">My Portfolio Site<a/>
 
