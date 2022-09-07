@@ -32,7 +32,7 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benton-Michael&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Benton-Michael/github-readme-stats)
 
-<a href="http://www.github.com/benton-michael”><img src="https://github-readme-streak-stats.herokuapp.com/?user=benton-michael&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=benton-michael&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://benton-michael.github.io/" target="_blank">My Portfolio Site<a/>
 
