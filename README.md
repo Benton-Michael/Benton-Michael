@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Michael! I recently completed Coding Dojo's 3 stack bootcamp (Python, Java, MERN). 
+### Hi there 👋 I'm Michael, a full stack web developer. 
 
 <!--**Benton-Michael/Benton-Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 <br>
 🔭 I’m currently working on React applications with Tailwind CSS
 <br>
-🌱 I’m currently learning about containerization and microservices
+🌱 I’m currently learning about Ruby on Rails, containerization, and microservices
 <br>
 <a href="https://www.linkedin.com/in/mtbenton/" target="_blank">  My LinkedIn 
 
