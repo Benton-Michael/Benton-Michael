@@ -6,18 +6,15 @@ Here are some ideas to get you started:
 
 Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 
-
 - [<img align="left" alt="Michael Benton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<= My LinkedIn
 
 -  ...
-
 - 
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
 
 ***********-->
 ⚡ Fun fact: An Olympic swimming pool holds 850 thousand gallons 
@@ -28,14 +25,11 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 <br>
 <a href="https://www.linkedin.com/in/mtbenton/" target="_blank">  My LinkedIn 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benton-Michael&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Benton-Michael/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benton-michael&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://benton-michael.github.io/" target="_blank">My Portfolio Site<a/>
-
 
 <img align="left" alt="Visual Studio Code" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -54,7 +48,6 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 <img align="left" alt="Ruby" width="30 height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
 <img align="left" alt="NPM" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
 
-
 <img align="left" alt="Node.js" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MySQL" width="35" height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
@@ -62,5 +55,6 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 
 <img class="category" align="left" alt="Terminal" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 [linkedin]: https://www.linkedin.com/in/mtbenton/
+
+
