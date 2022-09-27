@@ -19,9 +19,9 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 ***********-->
 ⚡ Fun fact: An Olympic swimming pool holds 850 thousand gallons 
 <br>
-🔭 I’m currently working on React applications with Tailwind CSS
+🔭 I’m currently working on React and Ruby applications 
 <br>
-🌱 I’m currently learning about Ruby on Rails, containerization, and microservices
+🌱 I’m currently learning about Ruby on Rails, testing with RSpec and Capybara, containerization, and microservices
 <br>
 <a href="https://www.linkedin.com/in/mtbenton/" target="_blank">  My LinkedIn 
 
