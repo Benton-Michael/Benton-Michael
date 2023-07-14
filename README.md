@@ -21,7 +21,7 @@ Languages and Tools: Ruby, Python, Java, JavaScript, HTML, CSS
 <br>
 🔭 I’m currently working on Python and React/JS applications 
 <br>
-🌱 I’m currently learning about ViteJS, React, containerization, and microservices
+🌱 I’m currently learning about Typsescript, ViteJS, React, containerization, and microservices
 <br>
 <a href="https://www.linkedin.com/in/mtbenton/" target="_blank">  My LinkedIn 
 
